@@ -1,0 +1,1 @@
+This project analyzes global sugarcane production data, comparing production trends across different countries. The goal is to identify patterns, key contributors, and factors influencing production levels.
